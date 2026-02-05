@@ -2,7 +2,8 @@
 
 🔗 Live Store (Password Protected):  
  https://glow-beauty-collective.myshopify.com/
-Password: BUBBY_9182
+🔐 Store Password: BUBBY_9182
+
 
 ## Project Type
 Shopify eCommerce Store
@@ -20,12 +21,15 @@ Premium Shopify beauty store built with a CRO-focused layout and product optimiz
 - Optimized navigation and collections
 - Secure Shopify checkout
 
-## My Role
-- Shopify store setup
-- Theme customization
-- Product structuring
-- UI/UX optimization
-- CRO implementation
+## My Role – Technical Sales Executive (Digital Heroes)
+
+- Understanding client business requirements
+- Researching suitable Shopify themes and store structures
+- Explaining technical solutions to clients in simple terms
+- Coordinating with design and development teams
+- Supporting CRO-focused layout and product optimization decisions
+- Assisting in store setup, testing, and launch support
+
 
 ## Tech Stack
 - Shopify
